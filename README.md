@@ -1,3 +1,4 @@
-# 1Csharp
+# 1Csharp - ARQUIVO COMPACTADO
+Solicitar a inserção de 5 números, ao final, imprimir os números pares, números ímpares e a média geral desses números.
 
-ARQUIVO COMPACTADO
+
